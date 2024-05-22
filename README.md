@@ -1,4 +1,4 @@
-![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNsgJTAWawRHXcH_FYy9qruV7G2LOllY2HxAHNuwJeJVo4Vp3UE1HVTKycl5qMR-O6nqVy18x-FT1Rw6g05W3lnYJmBMMn8bPjf1bS6XAZW7ueIpMOhyv5PWW3AvtVu5leZ4kTSpMa5d4p/s400/CreamyUniformCuscus-size_restricted.gif)
+![MasterHead](https://res.cloudinary.com/dzqnxxed6/image/upload/v1716358177/ezgif.com-resize_dycgd0.gif)
 
 
 <h1 align="center">Hey 👋, I'm Tanya Agarwal</h1>
