@@ -9,7 +9,7 @@
 
 <img align="right" alt="Coding" width="300" src = 'https://static.vecteezy.com/system/resources/previews/000/242/494/non_2x/vector-female-developer.jpg' />
 
-- 🔭 I’m currently working on [StudyNotion](https://github.com/tanya13agarwal/StudyNotion.git)
+- 🔭 I’m currently working on [StudyNotion](https://github.com/tanya13agarwal/StudyNotion.git) and [QuickChat App](https://github.com/tanya13agarwal/QuickChat-app.git)
   
 
 - 🌱 I’m currently leveraging my skills in **MERN stack**
