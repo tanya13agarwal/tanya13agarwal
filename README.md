@@ -15,7 +15,7 @@
 - 🌱 I’m currently leveraging my skills in **MERN stack**
 
 
-- 👯 I’m currently collaborating on [SmartDagg- SFHC](https://github.com/SmartDagg/SFHC.git)
+- 👯 I’m currently collaborating on [Job Chaahiye](https://github.com/TheLeftyCoder/Employer-Job-Portal) and [House of Things](https://github.com/Divyanshu800/house-of-things)
 
 
 - 👨‍💻 I'm looking for exploring on **DevOps**
