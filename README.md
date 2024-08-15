@@ -15,10 +15,7 @@
 - 🌱 I’m currently leveraging my skills in **MERN stack**
 
 
-- 👯 I’m currently collaborating on [Job Chaahiye](https://github.com/TheLeftyCoder/Employer-Job-Portal) and [House of Things](https://github.com/Divyanshu800/house-of-things)
-
-
-- 👨‍💻 I'm looking for exploring on **DevOps**
+- 👯 I’m currently collaborating on [Job Chaahiye](https://github.com/TheLeftyCoder/Employer-Job-Portal)
 
 
 - 💬 Ask me about **MERN, DSA**
