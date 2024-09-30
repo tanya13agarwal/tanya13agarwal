@@ -9,21 +9,21 @@
 
 <img align="right" alt="Coding" width="300" src = 'https://static.vecteezy.com/system/resources/previews/000/242/494/non_2x/vector-female-developer.jpg' />
 
-- 🔭 I’m currently working on [StudyNotion](https://github.com/tanya13agarwal/StudyNotion.git)
+- 🔭 I’m currently working on [StudyNotion](https://github.com/tanya13agarwal/StudyNotion.git) and [Smart Contact Manager](https://github.com/tanya13agarwal/smart-contact-manager)
   
 
-- 🌱 I’m currently leveraging my skills in **MERN stack**
+- 🌱 I’m currently leveraging my skills in **MERN stack** and **Spring Boot**
 
 
-- 👯 I’m currently collaborating on [Job Chaahiye](https://github.com/TheLeftyCoder/candidate-job-portal)
+- 👯 I’m currently collaborating on [Job portal (campus specific)](https://github.com/tanya13agarwal/job-portal)
 
+- 👨‍💻 I'm looking for exploring on **Spring Boot**
 
 - 💬 Ask me about **MERN, DSA**
 
-
 - 📫 How to reach me **agarwaljiya03@gmail.com**
 
-
+- 📄 Know about my experiences through [Resume](https://drive.google.com/file/d/1ERAVZocuBVVETeLcjmLtElsqHw_FQETX/view?usp=sharing)
 
 <br><br/>
 <br><br/>
