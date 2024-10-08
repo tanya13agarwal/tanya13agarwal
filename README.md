@@ -30,8 +30,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanya13agarwal&label=Profile%20views&color=0e75b6&style=flat" alt="tanya13agarwal" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanya13agarwal" alt="tanya13agarwal" /></a> </p>
-
 <br><br/>
 
 <h3 align="left">Connect with me:</h3>
