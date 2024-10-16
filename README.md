@@ -15,7 +15,7 @@
 - 🌱 I’m currently leveraging my skills in **MERN stack** and **Spring Boot**
 
 
-- 👯 I’m currently collaborating on [Job portal (campus specific)](https://github.com/tanya13agarwal/job-portal)
+- 👯 I’m currently collaborating on [Campus Career Management System](https://github.com/tanya13agarwal/job-portal)
 
 - 👨‍💻 I'm looking for exploring on **Spring Boot**
 
@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **agarwaljiya03@gmail.com**
 
-- 📄 Know about my experiences through [Resume](https://drive.google.com/file/d/1ERAVZocuBVVETeLcjmLtElsqHw_FQETX/view?usp=sharing)
+- 📄 Know about my experiences through [Resume](https://drive.google.com/file/d/1mEt27FT0GWML0xwfKrCkV7ktv6jhvSCB/view?usp=sharing)
 
 <br><br/>
 <br><br/>
