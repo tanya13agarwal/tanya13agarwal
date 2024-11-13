@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **agarwaljiya03@gmail.com**
 
-- 📄 Know about my experiences through [Resume](https://drive.google.com/file/d/1mEt27FT0GWML0xwfKrCkV7ktv6jhvSCB/view?usp=sharing)
+- 📄 Know about my experiences through [Resume](https://drive.google.com/file/d/1yV2Y2UuDliw7qQ-D8l03yAwaI80bdbHW/view?usp=sharing)
 
 <br><br/>
 <br><br/>
