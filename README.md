@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hey 👋, I'm Tanya Agarwal</h1>
-<h3 align="center">Passionate Full Stack MERN Developer | Proficient in C++ Data Structures and Algorithms | Exploring the Frontiers of Data Science and Machine Learning</h3>
+<h3 align="center">Full Stack Developer at Contevolve | Angular & Java | Proficient in C++ DSA | Experienced in MERN Stack | Exploring System Design & Scalability</h3>
 
 <br></br>
 <br></br>
@@ -12,14 +12,11 @@
 - 🔭 I’m currently working on [StudyNotion](https://github.com/tanya13agarwal/StudyNotion.git) and [Smart Contact Manager](https://github.com/tanya13agarwal/smart-contact-manager)
   
 
-- 🌱 I’m currently leveraging my skills in **MERN stack** and **Spring Boot**
+- 🌱 I’m currently leveraging my skills in **Angular and Java Spring framework** and **System Design Concepts**
 
+- 👨‍💻 I'm looking for exploring on **Devops and Core concepts in Backend Technologies**
 
-- 👯 I’m currently collaborating on [Campus Career Management System](https://github.com/tanya13agarwal/job-portal)
-
-- 👨‍💻 I'm looking for exploring on **Spring Boot**
-
-- 💬 Ask me about **MERN, DSA**
+- 💬 Ask me about **Web Development, DSA**
 
 - 📫 How to reach me **agarwaljiya03@gmail.com**
 
